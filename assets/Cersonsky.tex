@@ -1,0 +1,130 @@
+
+\documentclass[10pt,a4paper,sans]{moderncv}    
+
+% moderncv themes
+\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                     
+\usepackage{etaremune}
+\usepackage{bibentry}
+\usepackage{changepage} 
+\usepackage[scale=0.87]{geometry}
+\urlstyle{same}
+\usepackage{xpatch}
+\usepackage[backend=bibtex, sorting=ydnt, defernumbers=true, hyperref=true, style=science, sorting=none, maxnames=10]{biblatex}
+\addbibresource{publications.bib} 
+\addbibresource{presentations.bib} 
+\addbibresource{oss.bib} 
+\nocite{*}
+
+\defbibenvironment{bibliography}
+{\list
+{\printfield[labelnumberwidth]{labelnumber}}
+{\setlength{\labelwidth}{\labelnumberwidth}%
+\setlength{\leftmargin}{\labelwidth}%
+\setlength{\labelsep}{\biblabelsep}%
+\addtolength{\leftmargin}{\labelsep + 0.5cm}%
+\setlength{\itemsep}{\bibitemsep}%
+\setlength{\parsep}{\bibparsep}}%
+\renewcommand*{\makelabel}[1]{\hss##1}}
+{\endlist}
+{\item}
+
+\xpatchcmd{\cventry}{.\strut}{\strut}{}{}
+
+\name{Rose K.}{Cersonsky}
+\email{rose.cersonsky@epfl.ch}    
+%\email{rosecers@umich.edu}    
+\homepage{RoseCersonsky.com}    
+\rfoot{\textit{Cersonsky CV\ \ \ \thepage}}   
+
+\begin{document}
+
+\makecvtitle\vspace{-0.5in}
+
+\section{Education}\vspace{2pt}
+\cventry{2014--2019}{Doctor of Philosophy}{University of Michigan}{Ann Arbor, MI}{}{Macromolecular Science and Engineering \hfill GPA: \textit{3.74/4.0}\\\ Thesis: "Designing Particle Shapes for Self-Assembly of Novel Colloidal Crystals" \\\textit{Thesis Advisor: Prof. Sharon Glotzer}}\vspace{6pt}
+\cventry{2010--2014}{Bachelor of Science in Engineering}{University of Connecticut}{Storrs, CT}{}{Materials Science and Engineering, \textit{Magna Cum Laude, Honors Degree} \hfill GPA: \textit{3.86/4.0}\\Minor Concentration: Computer Science and Engineering\\Theses: "Optimization of Polymer Fluorescence for Explosives Detection" -- \textit{Advisor: Prof.\ Mu-Ping Nieh}\\\hspace*{0.41in} "Design Rules for  RTM Polyimides Composites" -- \textit{Advisors: Prof.\ Serge Nakhmanson, Dr.\ Hillary Huttenhower}}
+
+\section{Professional Experience}\vspace{2pt}
+\cventry{2019--present}{Postdoctoral Researcher with Prof.\ Michele Ceriotti}{Ecol\`e Polytechnique F\`ed\`erale de Lausanne}{Lausanne, Switzerland}{}{}\vspace{2pt}
+\cventry{2014--2019}{Graduate Student Researcher with Prof.\ Sharon Glotzer}{University of Michigan}{Ann Arbor, MI}{}{Investigated of the role of shape in free energy optimization of colloidal crystals and design of novel photonic materials\\Contributed to open-source software packages for simulation and data management (HOOMD-blue and signac)}\vspace{2pt}
+\cventry{2014--2019}{Freelance Tutor}{WyzAnt, Inc.}{Ann Arbor, MI}{}{Mentored and tutored middle and high school students in mathematics and computer programming}\vspace{2pt}
+\cventry{2012, 2013}{Intern, Structural Alloys (2012), Polymeric Materials (2013)}{Pratt and Whitney}{East Hartford, CT}{}{Developed surface treatments to promote adhesion, processing for polymer foams and repair for coatings\\Investigated effects of microstructural imperfections in jet engine alloys}\vspace{2pt}
+\cventry{2012-2014}{Undergraduate Student Researcher under Prof.\ Mu-Ping Nieh}{SAFN Laboratory}{Storrs, CT}{}{Investigated the effects of polymer composition and film preparation on film fluorescence}\vspace{2pt}
+% \cventry{2011-2014}{Tutor and Teacher, BRIDGE Program and Engineering Tutoring Center}{University of Connecticut (UConn)}{Storrs, CT}{}{}{}
+
+% publication list
+\printbibliography[title={Journal Articles}, keyword={publication}, resetnumbers=true]
+
+\section{Mentorship and Supervision of Junior Researchers}
+    \cventry{2020-present}{Maria Pakhnova}{Project Inspire Student, EPFL}{}{}{Project Name: Identifying High-Stability Components of Molecular Crystals.}
+    \cventry{2020-present}{Sergei Kliavinek}{Semester Project Student, EPFL}{}{}{Project Name: Comparing Feature Spaces for Materials and Molecules. \textit{Publication submitted \cite{cersonsky2021improving}}}
+    \cventry{2020-2021}{Pengkang Guo}{Semester Project Student, EPFL}{}{}{Project Name: Implementing Dimensionality Reduction with Kernel PCovR Analysis.}
+    \cventry{2019-2021}{Benjamin Helfrecht}{PhD Student, EPFL}{}{}{Project Name: Structure-property maps with kernel principal covariates regression, \textit{Publication in Machine Learning, Science and Technology \cite{helfrecht2020structure}}}
+    \cventry{2018-2020}{Yuan Zhou}{PhD Student, University of Michigan}{}{}{Project Name: A new possibility for making diamond colloidal crystals. \textit{Publication in preparation \cite{zhou2021new}.}}
+    \cventry{2016-2018}{Alyssa Travitz}{PhD Student, University of Michigan}{}{}{Mentored through University of Michigan Mentorship Program, \textit{Publication in ASEE proceedings \cite{travitz2020react}.}}
+    \cventry{2017-2018}{Sophie Barterian}{Undergraduate Student, University of Michigan}{}{}{Project Name: When don't Colloids form FCC? \textit{Presented by Barterian at 2018 APS March Meeting}}
+%
+
+\section{Honors and Awards}\vspace{-4pt}
+\input{awards.tex}
+
+\section{Contributions to Open-Source Software}
+All contributions can be found on \textit{GitHub} page: \url{https://github.com/rosecers}.
+\printbibliography[title={\hspace{-2cm}Lead Developer}, type=software, keyword={lead}, resetnumbers=true, heading=subbibliography]
+\printbibliography[title={\hspace{-2cm}Core Developer}, type=software, keyword={core}, resetnumbers=false, heading=subbibliography]
+\printbibliography[title={\hspace{-2cm}Contributor}, type=software, keyword={contr}, resetnumbers=false, heading=subbibliography]
+
+
+\section{Seminar and Conference Presentations}
+\printbibliography[title={\hspace{-2cm}Seminars and Invited Talks}, keyword={seminar}, resetnumbers=true, heading=subbibliography]
+\printbibliography[title={\hspace{-2cm}Contributed Oral Presentations}, keyword={contributed}, resetnumbers=false, heading=subbibliography]
+\printbibliography[title={\hspace{-2cm}Poster Presentations}, keyword={poster}, resetnumbers=false, heading=subbibliography]
+
+\section{Professional Skills}
+\textbf{Coding Proficiencies}: Python (Advanced), MATLAB (Intermediate), Java (Intermediate-Advanced),\\ \hspace*{100pt}\LaTeX, git, bash scripting, Scheme\\ \hspace*{100pt}Python packages: MatPlotLib, NumPy, SciPy, IPython/Jupyter\\
+\textbf{Languages}: English (Native), German (Intermediate), Spanish (Intermediate), French (Beginner)\\
+\textbf{Other Skills}: Microsoft Office, Statistical Analysis
+
+\section{Professional Affiliations}
+\cventry{2016-present}{American Institute of Chemical Engineers}{}{}{}{}\vspace{-2pt}
+\cventry{2016-present}{Materials Research Society}{}{}{}{}\vspace{-2pt}
+\cventry{2016-present}{American Chemical Society}{}{}{}{}\vspace{-2pt}
+\cventry{2015-present}{American Physical Society (APS)}{}{}{}{}\vspace{-2pt}
+\cventry{2012-present}{Alpha Sigma Mu}{}{}{}{}\vspace{-2pt}
+
+\section{Event Organization}\vspace{2pt}
+\cventry{Oct. 2018}{Student Coordinator}{Macromolecular Science and Engineering Symposium}{}{}{}\vspace{6pt}
+
+\cventry{2017-2019}{Creator, Lead Organizer}{Research Education and Activities for Classroom Teachers (REACT)}{}{}{Developed and lead one-day workshop for Michigan K-12 STEM teachers on UM campus, including student talks, lab tours, and demonstrations of hands-on activities by student organizations.\\Coordinated participation from multiple research groups and student organizations across 8 UM departments.\\Expanded event from 19 participants in 2017 to 53 participants in 2018}\vspace{6pt}
+\cventry{June 2016}{Organizer, The Life and Death of Plastics}{UM XPlore Engineering}{}{}{}\vspace{6pt}
+\cventry{Sept. 2013}{Head Curator, Master of Ceremonies}{TEDxUConn 2013: ``Future in Focus''} {}{}{}
+
+\section{Service}\vspace{2pt}
+\cventry{2017}{Student Ally}{UM Diversity, Equity, and Inclusion Strategic Plan}{}{}{}\vspace{6pt}
+\cventry{2015-2019}{UM ACS POLY/PMSE Student Chapter}{}{}{}{2015-2017\hspace{15pt}Outreach Chair - Organized group to bring plastics and polymer-based lessons to Detroit primary school classrooms; Developed presentation series aligned with state science standards to promote accessibility of polymer science}{}{}\vspace{6pt}
+\cventry{2010-2014}{United Technologies Corporation UConn Engineering Ambassadors}{}{}{}{2013-2014\hspace{15pt}Vice President\\2012-2013\hspace{15pt}Director of Curriculum Development and Organizational Resources\\2010-2012\hspace{15pt}Middle School Outreach Coordinator}\vspace{6pt}\vspace{6pt}%Presented on engineering-based topics to primary school classrooms and acted as industry ambassador}\vspace{6pt}
+\cventry{2013-2014}{Vice President, Curation}{TEDxUConn}{}{}{}\vspace{6pt}
+
+
+\section{Performing Arts}\vspace{2pt}
+\cventry{2015}{The Croswell Opera House}{Croswell, MI}{}{}{\textit{Big Fish}\hspace{60pt}Featured Actor}\vspace{4pt}
+\cventry{2008-2013}{The Gary-The Olivia at the Abbey of Regina Laudis}{Bethlehem, CT}{}{}{\textit{Fiorello!}\hspace{56pt} Dora (Principle Role)\\\textit{South Pacific}\hspace{40pt}Featured Ensemble\\\textit{The Pajama Game}\hspace{20pt}Ensemble\\\textit{West Side Story}\hspace{30pt}Ensemble}\vspace{4pt}
+\cventry{2013}{UConn Dramatic PAWS}{Storrs, CT}{}{}{\textit{Never Alone}\hspace{46pt}Carol (Principle Role, Original Cast)\\\textit{Sherlock Holmes and the Case of the Jersey Lily}\hspace{10pt}Professor Moriarty (Principle Role)}{}{}{}{}\vspace{4pt}
+
+
+\section{Personal Interests}
+Running (\textbf{Baltimore Marathon Finisher 2016}), Calligraphy, Baking, Bridge, Backgammon, Hiking, Climbing
+
+\clearpage
+
+\end{document}
+
+
+%% end of file `template.tex'.
+

@@ -1,0 +1,900 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{zhou2021new}{unpublished}{}
+    \name{author}{3}{}{%
+      {{hash=ZY}{%
+         family={Zhou},
+         family_i={Z\bibinitperiod},
+         given={Yuan},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=GSC}{%
+         family={Glotzer},
+         family_i={G\bibinitperiod},
+         given={Sharon\bibnamedelima C},
+         given_i={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{publication}
+    \strng{namehash}{ZYtGSC1}
+    \strng{fullhash}{ZYtGSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A New Route to the Diamond Colloidal Crystal}
+    \field{year}{\textit{In preparation.}}
+  \endentry
+
+  \entry{cersonsky2021improving}{unpublished}{}
+    \name{author}{5}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=HBA}{%
+         family={Helfrecht},
+         family_i={H\bibinitperiod},
+         given={Benjamin\bibnamedelima A},
+         given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EEA}{%
+         family={Engel},
+         family_i={E\bibinitperiod},
+         given={Edgar\bibnamedelima A},
+         given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kliavinek},
+         family_i={K\bibinitperiod},
+         given={Sergei},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Ceriotti},
+         family_i={C\bibinitperiod},
+         given={Michele},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tHBAEEAKSCM1}
+    \strng{fullhash}{tHBAEEAKSCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{In Press.}
+    \field{title}{Improving Sample and Feature Selection with Principal
+  Covariates Regression}
+    \verb{url}
+    \verb https://arxiv.org/abs/2012.12253
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{cersonsky2021photonics}{article}{}
+    \name{author}{4}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}.},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=AJA}{%
+         family={Antonaglia},
+         family_i={A\bibinitperiod},
+         given={James\bibnamedelima A.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DBD}{%
+         family={Dice},
+         family_i={D\bibinitperiod},
+         given={Bradley\bibnamedelima D.},
+         given_i={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GSC}{%
+         family={Glotzer},
+         family_i={G\bibinitperiod},
+         given={Sharon\bibnamedelima C.},
+         given_i={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tAJADBDGSC1}
+    \strng{fullhash}{tAJADBDGSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2543}
+    \field{title}{Unexpected Diversity of Three-Dimensional Photonic Crystals}
+    \verb{url}
+    \verb https://doi.org/10.1038/s41467-021-22809-6
+    \endverb
+    \field{volume}{12}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2021}
+  \endentry
+
+  \entry{helfrecht2020structure}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HBA}{%
+         family={Helfrecht},
+         family_i={H\bibinitperiod},
+         given={Benjamin\bibnamedelima A},
+         given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Fraux},
+         family_i={F\bibinitperiod},
+         given={Guillaume},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Ceriotti},
+         family_i={C\bibinitperiod},
+         given={Michele},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \keyw{publication}
+    \strng{namehash}{HBAtFGCM1}
+    \strng{fullhash}{HBAtFGCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{045021}
+    \field{title}{Structure-property maps with Kernel principal covariates
+  regression}
+    \verb{url}
+    \verb https://doi.org/10.1088/2632-2153/aba9ef
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{Machine Learning: Science and Technology}
+    \field{year}{2020}
+  \endentry
+
+  \entry{travitz2020react}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TA}{%
+         family={Travitz},
+         family_i={T\bibinitperiod},
+         given={Alyssa},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Muniz},
+         family_i={M\bibinitperiod},
+         given={Ayse},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=BJK}{%
+         family={Beckwith},
+         family_i={B\bibinitperiod},
+         given={Joanne\bibnamedelima K.},
+         given_i={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}.},
+         family_i={t\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {ASEE}%
+    }
+    \keyw{publication}
+    \strng{namehash}{TAMABJKt1}
+    \strng{fullhash}{TAMABJKt1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Bringing Science Education and Research together to REACT}
+    \verb{url}
+    \verb https://doi.org/10.18260/1-2--35030
+    \endverb
+    \field{journaltitle}{2020 Virtual American Society for Engineering
+  Education}
+    \field{year}{2020}
+  \endentry
+
+  \entry{fraux2020chemiscope}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FG}{%
+         family={Fraux},
+         family_i={F\bibinitperiod},
+         given={Guillaume},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Ceriotti},
+         family_i={C\bibinitperiod},
+         given={Michele},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \keyw{publication}
+    \strng{namehash}{FGtCM1}
+    \strng{fullhash}{FGtCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{51}
+    \field{pages}{2117}
+    \field{title}{Chemiscope: Interactive structure-property explorer for
+  materials and molecules}
+    \verb{url}
+    \verb https://doi.org/10.21105/joss.02117
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Journal of Open Source Software}
+    \field{year}{2020}
+  \endentry
+
+  \entry{cersonsky2018pressure}{article}{}
+    \name{author}{5}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dshemuchadse},
+         family_i={D\bibinitperiod},
+         given={Julia},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Antonaglia},
+         family_i={A\bibinitperiod},
+         given={James},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=vAG}{%
+         prefix={van},
+         prefix_i={v\bibinitperiod},
+         family={Anders},
+         family_i={A\bibinitperiod},
+         given={Greg},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=GSC}{%
+         family={Glotzer},
+         family_i={G\bibinitperiod},
+         given={Sharon\bibnamedelima C},
+         given_i={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {APS}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tDJAJvAGGSC1}
+    \strng{fullhash}{tDJAJvAGGSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{12}
+    \field{pages}{125201}
+    \field{title}{Pressure-tunable photonic band gaps in an entropic colloidal
+  crystal}
+    \verb{url}
+    \verb https://doi.org/10.1103/PhysRevMaterials.2.125201
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Physical Review Materials}
+    \field{year}{2018}
+  \endentry
+
+  \entry{cersonsky2018relevance}{article}{}
+    \name{author}{4}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=vAG}{%
+         prefix={van},
+         prefix_i={v\bibinitperiod},
+         family={Anders},
+         family_i={A\bibinitperiod},
+         given={Greg},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=DPM}{%
+         family={Dodd},
+         family_i={D\bibinitperiod},
+         given={Paul\bibnamedelima M},
+         given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GSC}{%
+         family={Glotzer},
+         family_i={G\bibinitperiod},
+         given={Sharon\bibnamedelima C},
+         given_i={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Acad Sciences}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tvAGDPMGSC1}
+    \strng{fullhash}{tvAGDPMGSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{1439\bibrangedash 1444}
+    \field{title}{Relevance of packing to colloidal self-assembly}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.1720139115
+    \endverb
+    \field{volume}{115}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2018}
+  \endentry
+
+  \entry{cersonsky2017augmenting}{article}{}
+    \name{author}{6}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=FLL}{%
+         family={Foster},
+         family_i={F\bibinitperiod},
+         given={Leanna\bibnamedelima L},
+         given_i={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Ahn},
+         family_i={A\bibinitperiod},
+         given={Taeyong},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=HRJ}{%
+         family={Hall},
+         family_i={H\bibinitperiod},
+         given={Ryan\bibnamedelima J},
+         given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VDLHL}{%
+         family={Van Der\bibnamedelima Laan},
+         family_i={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+         given={Harry\bibnamedelima L},
+         given_i={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=STF}{%
+         family={Scott},
+         family_i={S\bibinitperiod},
+         given={Timothy\bibnamedelima F},
+         given_i={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tFLLATHRJVDLHLSTF1}
+    \strng{fullhash}{tFLLATHRJVDLHLSTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{11}
+    \field{pages}{1639\bibrangedash 1646}
+    \field{title}{Augmenting Primary and Secondary Education with Polymer
+  Science and Engineering}
+    \verb{url}
+    \verb https://doi.org/10.1021/acs. jchemed.6b00805
+    \endverb
+    \field{volume}{94}
+    \field{journaltitle}{Journal of Chemical Education}
+    \field{year}{2017}
+  \endentry
+
+  \entry{cersonsky2014optimizing}{report}{}
+    \name{author}{3}{}{%
+      {{hash=t}{%
+         family={\textbf{Cersonsky, Rose K}},
+         family_i={t\bibinitperiod},
+      }}%
+      {{hash=JHs}{%
+         family={Jang},
+         family_i={J\bibinitperiod},
+         given={Hyun-sook},
+         given_i={H\bibinitperiod-s\bibinitperiod},
+      }}%
+      {{hash=NMP}{%
+         family={Nieh},
+         family_i={N\bibinitperiod},
+         given={Mu-Ping},
+         given_i={M\bibinitperiod-P\bibinitperiod},
+      }}%
+    }
+    \keyw{publication}
+    \strng{namehash}{tJHsNMP1}
+    \strng{fullhash}{tJHsNMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Optimizing Polymer Fluorescence for Explosives Detection}
+    \verb{url}
+    \verb https://opencommons.uconn.edu/srhonors_theses/388
+    \endverb
+    \list{institution}{1}{%
+      {University of Connecticut}%
+    }
+    \field{type}{techreport}
+    \field{year}{2014}
+  \endentry
+
+  \entry{biinnovator}{proceedings}{}
+    \list{publisher}{1}{%
+      {Biointerfaces Institute Research Day}%
+    }
+    \keyw{seminar}
+    \field{labeltitlesource}{title}
+    \field{title}{"Designing Nanoparticles for Self-Assembly of Novel Colloidal
+  Crystals."}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{04}
+    \field{year}{2019}
+  \endentry
+
+  \entry{oxford}{proceedings}{}
+    \keyw{seminar}
+    \field{labeltitlesource}{title}
+    \field{title}{"Designing Particle Shapes for Self-Assembly of Novel
+  Colloidal Crystals."}
+    \field{venue}{Oxford University, Oxford, Great Britain}
+    \field{month}{10}
+    \field{year}{2018}
+  \endentry
+
+  \entry{ethz}{proceedings}{}
+    \keyw{seminar}
+    \field{labeltitlesource}{title}
+    \field{title}{"Designing Particle Shapes for Self-Assembly of Novel
+  Colloidal Crystals."}
+    \field{venue}{Eidgenoessische Technische Hochschule (ETH), Zurich,
+  Switzerland}
+    \field{month}{09}
+    \field{year}{2018}
+  \endentry
+
+  \entry{EPFL2018}{proceedings}{}
+    \keyw{seminar}
+    \field{labeltitlesource}{title}
+    \field{title}{"Designing Particle Shapes for Self-Assembly of Novel
+  Colloidal Crystals."}
+    \field{venue}{\`Ecole Polytechnique Lausanne (EPFL), Lausanne, Switzerland}
+    \field{month}{09}
+    \field{year}{2018}
+  \endentry
+
+  \entry{aiche2019}{proceedings}{}
+    \list{publisher}{1}{%
+      {American Institute of Chemical Engineers Annual Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Unexpected Diversity of Three-Dimensional Photonic
+  Crystals."}
+    \field{venue}{Orlando, FL}
+    \field{month}{10}
+    \field{year}{2019}
+  \endentry
+
+  \entry{aps2019}{proceedings}{}
+    \list{publisher}{1}{%
+      {APS March Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Can we design a reconfigurable photonic crystal in the
+  visible light range?"}
+    \field{venue}{Boston, MA}
+    \field{month}{03}
+    \field{year}{2019}
+  \endentry
+
+  \entry{mrs2018}{proceedings}{}
+    \list{publisher}{1}{%
+      {Materials Research Society Fall Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Pressure--Tunable Photonic Band Gaps in an Entropic
+  Crystal."}
+    \field{venue}{Boston, MA}
+    \field{month}{11}
+    \field{year}{2018}
+  \endentry
+
+  \entry{aiche2018}{proceedings}{}
+    \list{publisher}{1}{%
+      {American Institute of Chemical Engineers Annual Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Pressure--Tunable Photonic Band Gaps in an Entropic
+  Crystal."}
+    \field{venue}{Pittsburgh, PA}
+    \field{month}{10}
+    \field{year}{2018}
+  \endentry
+
+  \entry{aniso2018}{proceedings}{}
+    \list{publisher}{1}{%
+      {Anisotropic Particles Symposium}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Pressure--Tunable Photonic Band Gaps in an Entropic
+  Crystal."}
+    \field{venue}{Konstanz, Germany}
+    \field{month}{09}
+    \field{year}{2018}
+  \endentry
+
+  \entry{bordeaux2018}{proceedings}{}
+    \list{publisher}{1}{%
+      {Self-Assembly of Colloidal Systems}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Pressure--Tunable Photonic Band Gaps in an Entropic
+  Crystal."}
+    \field{venue}{Bordeaux, France}
+    \field{month}{09}
+    \field{year}{2018}
+  \endentry
+
+  \entry{aps2018}{proceedings}{}
+    \list{publisher}{1}{%
+      {APS March Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Tunable Photonic Band Gaps in an Entropic Crystal."}
+    \field{venue}{Los Angeles, CA}
+    \field{month}{03}
+    \field{year}{2018}
+  \endentry
+
+  \entry{aiche2017}{proceedings}{}
+    \list{publisher}{1}{%
+      {American Institute of Chemical Engineers Annual Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Distinguishing Packing and Assembly Behavior via Phase
+  Transitions in Shape Space."}
+    \field{venue}{Minneapolis, MN}
+    \field{month}{11}
+    \field{year}{2017}
+  \endentry
+
+  \entry{mrs2017}{proceedings}{}
+    \list{publisher}{1}{%
+      {Materials Research Society Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Distinguishing Packing and Assembly Behavior via Phase
+  Transitions in Shape Space."}
+    \field{venue}{Phoenix, AZ}
+    \field{month}{04}
+    \field{year}{2017}
+  \endentry
+
+  \entry{acs2017}{proceedings}{}
+    \list{publisher}{1}{%
+      {American Chemical Society Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Augmenting Primary and Secondary Education with Polymer
+  Science and Engineering."}
+    \field{venue}{San Francisco, CA}
+    \field{month}{04}
+    \field{year}{2017}
+  \endentry
+
+  \entry{aps2017}{proceedings}{}
+    \list{publisher}{1}{%
+      {APS March Meeting}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Distinguishing Packing and Assembly Behavior via Phase
+  Behavior in Shape Space."}
+    \field{venue}{New Orleans, LA}
+    \field{month}{03}
+    \field{year}{2017}
+  \endentry
+
+  \entry{mrs2019}{proceedings}{}
+    \list{publisher}{1}{%
+      {Materials Research Society Fall Meeting}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Unexpected Diversity of Three-Dimensional Photonic
+  Crystals."}
+    \field{venue}{Boston, MA}
+    \field{month}{12}
+    \field{year}{2019}
+  \endentry
+
+  \entry{fomms2018}{proceedings}{}
+    \list{publisher}{2}{%
+      {Foundations of Molecular Modeling}%
+      {Simulation}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Tunable Photonic Band Gaps in an Entropic Crystal."}
+    \field{venue}{Delavan, WI}
+    \field{month}{07}
+    \field{year}{2018}
+  \endentry
+
+  \entry{macro2017}{proceedings}{}
+    \list{publisher}{2}{%
+      {Macromolecular Science}%
+      {Engineering Symposium}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"When does matter pack?"}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{10}
+    \field{year}{2017}
+  \endentry
+
+  \entry{egs2016}{proceedings}{}
+    \list{publisher}{1}{%
+      {Engineering Graduate Symposium}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Distinguishing Packing and Assembly Behavior via Phase
+  Behavior in Shape Space."}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{11}
+    \field{year}{2016}
+  \endentry
+
+  \entry{macro2016}{proceedings}{}
+    \list{publisher}{2}{%
+      {Macromolecular Science}%
+      {Engineering Symposium}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Understanding Spatial Packing Through Variable Shape."}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{10}
+    \field{year}{2016}
+  \endentry
+
+  \entry{miche2016}{proceedings}{}
+    \list{publisher}{2}{%
+      {Michigan Institute for Computational Discovery}%
+      {Engineering Symposium}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Understanding Spatial Packing Through Variable Shape."}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{04}
+    \field{year}{2016}
+  \endentry
+
+  \entry{macro2015}{proceedings}{}
+    \list{publisher}{2}{%
+      {Macromolecular Science}%
+      {Engineering Symposium}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Shape-Based Molecular Dynamics Investigation of Protein
+  Crystallization."}
+    \field{venue}{University of Michigan, Ann Arbor, MI}
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{smss2015}{proceedings}{}
+    \list{publisher}{1}{%
+      {Soft Matter Summer School}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Shape-Based Molecular Dynamics Investigation of Protein
+  Crystallization."}
+    \field{venue}{University of Massachusetts, Amherst, MA}
+    \field{month}{06}
+    \field{year}{2015}
+  \endentry
+
+  \entry{uconnsde}{proceedings}{}
+    \list{publisher}{1}{%
+      {Senior Design Exposition}%
+    }
+    \keyw{poster}
+    \field{labeltitlesource}{title}
+    \field{title}{"Design Rules for Composites from RTM Polyimides."}
+    \field{venue}{UConn, Storrs, CT}
+    \field{month}{05}
+    \field{year}{2014}
+  \endentry
+
+  \entry{aps2021}{proceedings}{}
+    \list{publisher}{1}{%
+      {APS}%
+    }
+    \keyw{contributed}
+    \field{labeltitlesource}{title}
+    \field{title}{"Enhanced Machine Learning Models for Structure-Property
+  Mapping with Principal Covariates Regression"}
+    \field{venue}{Virtual}
+    \field{month}{03}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Chemiscope}{software}{}
+    \keyw{software, core}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a visualization suite for correlating mapped data with 3D
+  molecular visualization}
+    \field{title}{Chemiscope}
+    \verb{url}
+    \verb https://github.com/cosmo-epfl/chemiscope/
+    \endverb
+  \endentry
+
+  \entry{FSPH}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{fast computing of spherical harmonics}
+    \field{title}{FSPH}
+    \verb{url}
+    \verb https://github.com/glotzerlab/fsph
+    \endverb
+  \endentry
+
+  \entry{Freud}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a simple, flexible, powerful set of tools for analyzing
+  trajectories obtained from molecular dynamics or Monte Carlo simulations}
+    \field{title}{Freud}
+    \verb{url}
+    \verb https://github.com/glotzerlab/freud
+    \endverb
+  \endentry
+
+  \entry{Freud-Examples}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a repository of examples to employ the \textit{Freud}
+  module}
+    \field{title}{Freud-Examples}
+    \verb{url}
+    \verb https://github.com/glotzerlab/freud-examples
+    \endverb
+  \endentry
+
+  \entry{Kernel-Tutorials}{software}{}
+    \keyw{software, lead}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a set of tutorials introducing users to kernel-based
+  machine learning methods}
+    \field{title}{Kernel-Tutorials}
+    \verb{url}
+    \verb https://github.com/cosmo-epfl/kernel-tutorials
+    \endverb
+  \endentry
+
+  \entry{LibRascal}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a versatile and scalable fingerprint and machine learning
+  code. It focuses on the efficient construction of representations of atomic
+  structures, that can then be fed to any supervised or unsupervised learning
+  algorithm}
+    \field{title}{LibRascal}
+    \verb{url}
+    \verb https://github.com/cosmo-epfl/librascal
+    \endverb
+  \endentry
+
+  \entry{Plato}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{efficient visualization of particle data}
+    \field{title}{Plato}
+    \verb{url}
+    \verb https://github.com/glotzerlab/plato
+    \endverb
+  \endentry
+
+  \entry{Pythia}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{generate numerical descriptions of particle systems}
+    \field{title}{Pythia}
+    \verb{url}
+    \verb https://github.com/glotzerlab/pythia
+    \endverb
+  \endentry
+
+  \entry{Signac}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{provides a simple and robust data model to create a
+  well-defined indexable storage layout for data and metadata. This makes it
+  easier to operate on large data spaces, streamlines post-processing and
+  analysis and makes data collectively accessible}
+    \field{title}{Signac}
+    \verb{url}
+    \verb https://github.com/glotzerlab/signac
+    \endverb
+  \endentry
+
+  \entry{Signac-Flow}{software}{}
+    \keyw{software, contr}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{provides the basic components to set up simple to complex
+  workflows for projects as part of the signac framework. That includes the
+  definition of data pipelines, execution of data space operations and the
+  submission of operations to high-performance super computers}
+    \field{title}{Signac-Flow}
+    \verb{url}
+    \verb https://github.com/glotzerlab/signac-flow
+    \endverb
+  \endentry
+
+  \entry{UnitCell-Photonics}{software}{}
+    \keyw{software, lead}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{software to take molecular dynamics simulation results and
+  compute the photonic band structure using MIT Photonic Bands (MPB)}
+    \field{title}{UnitCell-Photonics}
+    \verb{url}
+    \verb https://github.com/glotzerlab/unitcell_photonics
+    \endverb
+  \endentry
+
+  \entry{scikit-COSMO}{software}{}
+    \keyw{software, lead}
+    \field{labeltitlesource}{title}
+    \field{subtitle}{a package of functions modeled after scikit-learn
+  (sklearn) including machine learning tools, some of which have been extended
+  for materials science and chemical physics}
+    \field{title}{scikit-COSMO}
+    \verb{url}
+    \verb https://github.com/cosmo-epfl/sklearn-cosmo
+    \endverb
+  \endentry
+\endsortlist
+\endinput

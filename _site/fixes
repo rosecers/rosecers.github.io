@@ -1,0 +1,4 @@
+bundle add webrick
+bundle update
+bundle add kramdown-parser-gfm
+bundle exec jekyll serve

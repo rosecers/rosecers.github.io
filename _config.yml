@@ -27,7 +27,7 @@ url: "http://www-personal.umich.edu" # the base hostname & protocol for your sit
 # Build settings
 excerpt_separator: <!--more-->
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 header_pages:

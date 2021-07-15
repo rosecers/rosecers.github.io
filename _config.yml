@@ -10,3 +10,16 @@ markdown: kramdown
 # Build settings
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  #_features
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

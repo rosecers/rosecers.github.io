@@ -2,9 +2,10 @@ title: "Rose K. Cersonsky"
 email: rosecers@umich.edu
 email: rose.cersonsky@epfl.ch
 twitter: "@rosycers"
-# logo:
+logo: /assets/gallery/logo.png
 
 theme: jekyll-theme-minimal
+markdown: kramdown
 
 # Build settings
 plugins:

@@ -31,7 +31,7 @@ Rose K. Cersonsky, James Antonaglia, Bradley D. Dice, and Sharon C. Glotzer. Nat
 Benjamin A. Helfrecht, Rose K. Cersonsky, Guillaume Fraux, and Michele Ceriotti. Machine Learning: Science and Technology, 2020.
 
 * ### [Chemiscope: interactive structure-property explorer for materials and molecules](https://doi.org/10.21105/joss.02117)
-Guillaume Fraux, Rose K. Cersonsky, and Michele Ceriotti. Journal of Open Science Software, 2020.
+Guillaume Fraux, Rose K. Cersonsky, and Michele Ceriotti. Journal of Open Source Software, 2020.
 
 * ### [Bringing Science Education and Research together to REACT](https://peer.asee.org/35030)
 Alyssa Travitz, Ayse Muniz, Joanne K. Beckwith, and  Rose K. Cersonsky. Proceedings of the American Society for Engineering Education, 2020.

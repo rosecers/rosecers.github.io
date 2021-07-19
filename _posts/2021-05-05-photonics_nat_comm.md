@@ -3,7 +3,7 @@ layout: post
 title: "Photonics_Nat_Comm"
 ---
 
-Rose's work <b><a href="https://www.nature.com/articles/s41467-021-22809-6">{{"The Diversity of Three-Dimensional Photonic Crystals"}}</a> is published in Nature Communications</b>!
+Rose's work <b><a href="https://www.nature.com/articles/s41467-021-22809-6" target="_blank">{{"The Diversity of Three-Dimensional Photonic Crystals"}}</a> is published in Nature Communications</b>!
 
 <!--more-->
 <center>

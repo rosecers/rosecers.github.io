@@ -17,7 +17,7 @@
 ## Photos
 
 <details>
-<summary> <h3> Headshots </h3> </summary><p>
+<summary> <strong> Headshots </strong> </summary><p>
 
 <img src="/assets/gallery/HerEngineering.png" alt="Interview with #HerEngineering" style="height:180px">
 <img src="/assets/gallery/31780879628_57c19f006d_k.jpeg" alt="Towner Award Headshot" style="height:180px">
@@ -27,7 +27,7 @@
 </p></details>
 
 <details>
-<summary> <h3> Moments of Glory </h3> </summary><p>
+<summary> <strong> Professional Highlights </strong> </summary><p>
 
 <figure>
 <img src="/assets/gallery/MRSCersonsky.jpg" alt="Winning an Award at MRS" style="width:300px">
@@ -65,8 +65,10 @@
 <figcaption>TEDxUConn, 2013</figcaption>
 </figure>
 
+</p></details>
+
 <details>
-<summary> <h4> Running</h4> </summary><p>
+<summary> <strong> Running</strong> </summary><p>
 
 <figure>
 <img src="/assets/gallery/A2HM.jpg" style="width:200px">
@@ -96,7 +98,7 @@
 </p></details>
 
 <details>
-<summary> <h4> Adventures </h4> </summary><p>
+<summary> <strong> Adventures </strong> </summary><p>
 
 <figure>
 <img src="/assets/gallery/Skiing1.jpeg" alt="Skiing in the Swiss Alps" style="height:170px">
@@ -115,7 +117,5 @@
 <img src="/assets/gallery/UP_Mackinac.jpg" style="height:170px">
 <figcaption>Exploring Upper Michigan</figcaption>
 </figure>
-
-</p></details>
 
 </p></details>

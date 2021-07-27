@@ -8,8 +8,10 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 
 # Build settings
+url: "http://rosecers.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 defaults:
   #_features

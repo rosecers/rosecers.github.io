@@ -1,4 +1,4 @@
-# Outreach and Scientific Communications
+## Outreach and Scientific Communications
 
 **A lot of what follows is inspired by my parents.**
 

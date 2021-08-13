@@ -1,4 +1,4 @@
-# News Feed
+## Recent News
 
 <article>
 <style> .indented { padding-left: 16pt; padding-right: 50pt; }

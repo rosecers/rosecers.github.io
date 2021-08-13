@@ -1,6 +1,6 @@
 ## Hi! I'm Rose. I'm a computational materials scientist.
 
-![Minime](/assets/gallery/mini_comp_sci.jpg){: width="90%"}
+![Minime](/assets/gallery/mini_comp_sci.jpg){: width="90%" style="text-align: center;"}
 
 Currently, I am a postdoctoral researcher at the Laboratory of Computational Science and Modeling (COSMO) at the École Polytechnique Fédérale de Lausanne (EPFL) in the stunningly gorgeous Lausanne, Switzerland. As a "COSMO-naut", I work on methods development for analyzing atomistic simulation data -- this includes formulating new machine learning algorithms, contributing to visualization suites, and developing open-source software for
 the materials community.
@@ -9,7 +9,7 @@ My work broadly focuses on understanding the interplay between materials structu
 and adaptability for learning a broad swath of materials properties.
 
 
-## Upcoming Talks {#talks}
+### Upcoming Talks {#talks}
 Come see me speak at this year's American Institute of Chemical Engineers (AIChE) Meeting in November! I will be giving three separate talks on a broad selection of my work:
 
 * ### [35i - The Diversity of Three-Dimensional Photonic Crystals for Colloidal Self-Assembly](https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/630237){:target="_blank"}
@@ -17,7 +17,7 @@ Come see me speak at this year's American Institute of Chemical Engineers (AIChE
 * ### [203e - Improving Data Sub-Selection for Supervised Tasks with Principal Covariates Regression](https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/627282){:target="_blank"}
 
 
-## Preprints and Publications {#pubs}
+### Preprints and Publications {#pubs}
 * ### [Improving sample and feature selection with principal covariates regression](https://iopscience.iop.org/article/10.1088/2632-2153/abfe7c){:target="_blank"}
 #### doi: 10.1088/2632-2153/abfe7c
 Rose K. Cersonsky, Benjamin A. Helfrecht, Sergei Kliavinek, Edgar A. Engel, and Michele Ceriotti. Machine Learning: Science and Technology, 2021.

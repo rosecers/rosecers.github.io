@@ -1,4 +1,4 @@
-# Curriculum Vitae
+## Curriculum Vitae
 
 You can download my CV as PDF file [here]({{ site.baseurl }}/assets/Cersonsky.pdf).
 

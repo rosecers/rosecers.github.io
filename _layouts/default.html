@@ -4,14 +4,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <style>
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
 
-{% seo %}
+      .topnav {
+        overflow: hidden;
+        background-color: #333;
+      }
+
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+
+      .topnav a:hover {
+        background-color: #fff;
+        color: black;
+      }
+
+      .topnav a.active {
+        background-color: #;
+        color: white;
+      }
+    </style> -->
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
   <body>
+    <!-- <div class="topnav">
+      <a class="active" href="#home">Home</a>
+      <a href="/index">Home</a>
+      <a href="/news">News</a>
+      <a href="/CV">CV</a>
+      <a href="/outreach">Outreach</a>
+    </div> -->
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -26,31 +59,21 @@
         <br>
         <a href="https://www.reactmi.org/" target="_blank">Creator of the REACT Workshop</a>
         <br>
-	<br>
+	      <br>
         <p style="font-size:16px">
-        <strong>
-          <a href="/">Hello!</a>
-        </strong>
+        <a href="/"><strong>Hello!</strong></a>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="/#talks">Upcoming Talks</a>
         <br>
         &nbsp;&nbsp;&nbsp;&nbsp;<a href="/#pubs">Preprints / Publications</a>
         <br>
-        <strong>
-          <a href="/news">News Feed</a>
-        </strong>
+        <a href="/news"><strong>Recent News</strong></a>
         <br>
-        <strong>
-          <a href="/cv">Resume / CV</a>
-        </strong>
+          <a href="/cv"><strong>Resume / CV</strong></a>
         <br>
-        <strong>
-          <a href="/outreach">Outreach and Sci-Comm</a>
-        </strong>
+        <a href="/outreach"><strong>Outreach and Sci-Comm</strong></a>
         <br>
-        <strong>
-          <a href="/gallery">Gallery</a>
-        </strong>
+        <a href="/gallery"><strong>Media</strong></a>
         </p>
 
         <p class="view">
@@ -59,9 +82,7 @@
         </p>
       </header>
       <section>
-
       {{ content }}
-
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

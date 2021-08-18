@@ -1,4 +1,4 @@
-## Gallery
+## Media
 
 ### News Coverage {#coverage}
 * [Rose is Named the ACS Colloids Victor K. LaMer Awardee](https://sites.psu.edu/2021colloids/victor-k-lamer-award/) (Apr. 2021)

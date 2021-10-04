@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rose K. Cersonsky
+N:Cersonsky;Rose K.;;;
+NICKNAME:Rosy
+item1.EMAIL;TYPE=INTERNET:rose.cersonsky@epfl.ch
+item1.X-ABLabel:
+item2.ORG:École Polytechnique Fédérale de Lausanne
+item2.X-ABLabel:
+item3.TITLE:Postdoctoral Researcher
+item3.X-ABLabel:
+item4.URL:rosecersonsky.com
+item4.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/-yYVi9JuHqnE/YVuT0KljMyI/AAAAAAAAAA
+ A/pxE9MJvMUhwHArnmZJuxgdgiIxNM3MYAQCOQCEAE/photo.jpg
+CATEGORIES:myContacts
+END:VCARD

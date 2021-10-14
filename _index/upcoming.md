@@ -4,7 +4,7 @@ Come see me speak at this year's **American Institute of Chemical Engineers (AIC
 * ### [127b - The Search for Novel Mesoscale Materials](https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/629710){:target="_blank"}
 * ### [203e - Improving Data Sub-Selection for Supervised Tasks with Principal Covariates Regression](https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/627282){:target="_blank"}
 
-I will also be presenting work at the fall meeting of the **Materials Research Society (MRS)** in Bostom, MA.
+I will also be presenting work at the fall meeting of the **Materials Research Society (MRS)** in Boston, MA.
 
 * ### [Symposium CH04](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/2021_mrs_fall_meeting/ch04){:target="_blank"}
 * ### [Symposium BI02](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi02/Symposium_BI02){:target="_blank"}

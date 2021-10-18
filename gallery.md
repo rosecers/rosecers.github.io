@@ -23,6 +23,7 @@
 <img src="/assets/gallery/31780879628_57c19f006d_k.jpeg" alt="Towner Award Headshot" style="height:180px">
 <img src="/assets/gallery/RosyREACT.jpg" alt="REACT 2017" style="height:200px">
 <img src="/assets/gallery/rosecers.jpg" alt="Glotzerlab Headshot" style="height:200px">
+<img src="/assets/gallery/COSMO-00019.jpg" alt="COSMO Headshot" style="height:200px">
 
 </p></details>
 

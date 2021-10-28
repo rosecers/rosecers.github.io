@@ -4,17 +4,19 @@
 
 <img align="right" src="/assets/gallery/parents.jpg" style="width:50%;padding:20px">
 
-My father was a mathematician / pediatrician who did theater at night -- when I was young he would take me to his auditions and we played math games while we waited backstage during shows. **My experience in theater has sparked a love of science communication and outreach.**
+My father, Jeff, was a mathematician (turned pediatrician) who loved performing in musical theater and stage productions. When I was young, he would bring me to his auditions, and we played card games while we waited backstage during shows. As I grew older, I continued performing in theater productions through graduate school. **My experience in theater has sparked a passion for science communication.**
 
-My mother is a 5th grade teacher -- together we would brainstorm activities for her students and I (still) keep her up-to-date on exciting scientific research. Unfortunately, too few teachers have access to the world of cutting-edge research, and few "touchstones" within the scientific community. My mom inspired the REACT Workshop based upon the thought: **What if every STEM teacher had a PhD student for a kid?**
+My mother, Nancy, is a 5th-grade teacher based in my hometown of Oxford, Connecticut. When I was in high school, my school bus would drop me off at her classroom at the end of the day. While I waited for us to go home, she encouraged me to engage with her class, and together we would brainstorm activities for her students. To this day, I still keep her up-to-date on exciting scientific research, and we discuss how to inject these ideas into her curriculum. Unfortunately, too few teachers have access to the world of cutting-edge research, and even fewer have "touchstones" within the scientific community.
 
 ![Participants of REACT 2018](/assets/gallery/REACT2018.jpg){: width="100%";align="center"}
+
+**What if every STEM teacher had a Ph.D. student for a kid?**
 
 **This question led me to create [Research Education and Activities for Classroom Teachers (REACT)][2], a one-day workshop for Michigan teachers focused on providing access and exposure to University of Michigan research across all fields.** The day included [research talks][3] by doctoral researchers, laboratory tours, and activity demonstrations by student outreach groups.
 
 ![REACT Schedule](/assets/gallery/REACTSchedule.jpg){: width="100%"}
 
-In the three years that I led REACT, **raised nearly $40,000**, involved **12 different university departments and programs**, and had **130 participants** attend from **up to 4 hours from campus**. This event was **free of charge for teachers**, including food, activity supplies, and travel stipends to attend.
+In the three years that I led REACT, **raised nearly $40,000**, involved nearly **20 different university departments and programs**, and had over **150 participants** attend from **up to 4 hours from campus**. This event was **free of charge for teachers**, including food, activity supplies, and travel stipends to attend.
 <!--
 ![REACT Geography](/assets/gallery/REACTGeography.pdf){: width="80%"} -->
 This workshop has continued since my departure from Michigan, and was the subject of the peer-reviewed article <a href="https://peer.asee.org/35030" target="_blank">{{"Bringing Science Education and Research together to REACT"}}</a>.

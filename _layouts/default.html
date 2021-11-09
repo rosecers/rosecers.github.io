@@ -12,17 +12,13 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
 
         <a href="https://www.epfl.ch/labs/cosmo/" target="_blank">Postdoctoral Researcher / COSMO (EPFL)</a>
         <br>
         <a href="https://www.reactmi.org/" target="_blank">Creator of the REACT Workshop</a>
         <br>
-	      <br>
+	<br>
         <p style="font-size:16px">
         <a href="/"><strong>Hello!</strong></a>
         <br>
@@ -34,13 +30,12 @@
         <br>
         <a href="/news"><strong>Recent News</strong></a>
         <br>
-          <a href="/cv"><strong>Curriculum Vitae (CV)</strong></a>
+        <a href="/cv"><strong>Curriculum Vitae (CV)</strong></a>
         <br>
         <a href="/outreach"><strong>Outreach and Sci-Comm</strong></a>
         <br>
         <a href="/gallery"><strong>Media</strong></a>
         </p>
-
         <p class="view">
         <a href="https://scholar.google.com/citations?user=B2cyV70AAAAJ&hl=en" target="_blank">Google Scholar Profile</a><br>
         <a href="{{ site.github.owner_url }}" target="_blank">GitHub Profile</a>

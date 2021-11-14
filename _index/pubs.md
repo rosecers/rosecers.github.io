@@ -1,3 +1,6 @@
+* ### [A Route to Hierarchical Assembly of Colloidal Diamond](https://arxiv.org/abs/2111.04817v1){:target="_blank"}
+#### https://arxiv.org/abs/2111.04817v1 (Under Review)
+Yuan Zhou, Rose K. Cersonsky, and Sharon C. Glotzer
 
 * ### [Improving sample and feature selection with principal covariates regression](https://iopscience.iop.org/article/10.1088/2632-2153/abfe7c){:target="_blank"}
 #### doi: 10.1088/2632-2153/abfe7c

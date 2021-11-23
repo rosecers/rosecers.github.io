@@ -2,6 +2,8 @@
 
 You can download my CV as PDF file [here]({{ site.baseurl }}/assets/Cersonsky.pdf).
 
-<object data="{{ site.baseurl }}/assets/Cersonsky.pdf" type="assets/Cersonsky.pdf" width="800" height="1200">
-    <embed src="{{ site.baseurl}}/assets/Cersonsky.pdf" width="600" height="1000">
-</object>
+<div style="min-width:200px;">
+  <object data="{{ site.baseurl }}/assets/Cersonsky.pdf" type="assets/Cersonsky.pdf" width="100%" height="1200">
+      <embed src="{{ site.baseurl}}/assets/Cersonsky.pdf" width="100%" height="1000">
+  </object>
+</div>

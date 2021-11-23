@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+    $(function(){
+        $('a').each(function(){
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('active'); $(this).parents('li').addClass('active');
+            }
+        });
+    });
+</script>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -8,38 +18,41 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <div class="topnav">
+      <a href="/">Rose K. Cersonsky</a>
+      <div class="dropdown">
+        <div class=dropbtn href="/">Home</div>
+        <div class="dropdown-content">
+        	<a href="/#talks">Upcoming Talks</a>
+        	<a href="/#pubs">Publications</a>
+        	<a href="/#slides">Slides from Previous Talks</a>
+        </div>
+      </div>
+    	<a href="/cv">Curriculum Vitae</a>
+    	<a href="/outreach">Outreach and Sci-Comm</a>
+    	<a href="/spare">Adventures Beyond the Lab</a>
+      <a href="/gallery">Media</a>
+    </div>
+    <br>
+	<!-- <div class="dropdown-content">
+	</div> -->
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
         <img src="{{site.logo | relative_url}}" alt="Logo" />
-
-        <a href="https://www.epfl.ch/labs/cosmo/" target="_blank">Postdoctoral Researcher / COSMO (EPFL)</a>
+        <a href="https://www.epfl.ch/labs/cosmo/" target="_blank">Postdoctoral Researcher, EPFL</a>
         <br>
         <a href="https://www.reactmi.org/" target="_blank">Creator of the REACT Workshop</a>
         <br>
-	<br>
-        <p style="font-size:16px">
-        <a href="/"><strong>Hello!</strong></a>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="/#talks">Upcoming Talks</a>
+      	<strong><a href="/cv">CV</a><br></strong>
+      	<strong><a href="/outreach">Outreach</a><br></strong>
+      	<strong><a href="/spare">Adventures</a><br></strong>
+      	<strong><a href="/gallery">Media</a><br></strong>
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="/#pubs">Publications</a>
-        <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="/#slides">Slides from Previous Talks</a>
-        <br>
-        <a href="/cv"><strong>Curriculum Vitae (CV)</strong></a>
-        <br>
-        <a href="/outreach"><strong>Outreach and Sci-Comm</strong></a>
-        <br>
-        <a href="/spare"><strong>Adventures Beyond the Lab</strong></a>
-        <br>
-        <a href="/gallery"><strong>Media</strong></a>
-        </p>
-        <p class="view">
         <a href="https://scholar.google.com/citations?user=B2cyV70AAAAJ&hl=en" target="_blank">Google Scholar Profile</a><br>
         <a href="{{ site.github.owner_url }}" target="_blank">GitHub Profile</a>
-        </p>
+        <br>
+        <br>
       </header>
       <section>
       {{ content }}

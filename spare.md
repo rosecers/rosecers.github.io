@@ -3,10 +3,10 @@
 I run (against the wishes of my knees)...
 
 <figure>
-<img src="/assets/gallery/A2HM.jpg" style="height:170px">
-<img src="/assets/gallery/A2HM2016.jpg" style="height:170px">
+<img src="/assets/gallery/A2HM.jpg" style="height:175px">
+<img src="/assets/gallery/A2HM2016.jpg" style="height:175px">
 <!-- <figcaption>Finishing the Ann Arbor Half-Marathon, 2019 & 2016</figcaption> -->
-<img src="/assets/gallery/Balt.jpg" alt="Finishing the Baltimore Marathon" style="height:170px">
+<img src="/assets/gallery/Balt.jpg" alt="Finishing the Baltimore Marathon" style="height:175px">
 <!-- <figcaption>Start of the Baltimore Marathon, 2016</figcaption> -->
 </figure>
 
@@ -28,9 +28,9 @@ I climb...
 I try new things and go on adventures...
 
 <figure>
-<img src="/assets/gallery/LacLeman1.jpg" style="width:500px">
-<img src="/assets/gallery/Skiing1.jpeg" alt="Skiing in the Swiss Alps" style="height:170px">
-<img src="/assets/gallery/Flying2.jpg" style="height:170px">
+<img src="/assets/gallery/LacLeman1.jpg" style="width:500px"><br>
+<img src="/assets/gallery/Skiing1.jpeg" alt="Skiing in the Swiss Alps" style="height:180px">
+<img src="/assets/gallery/Flying2.jpg" style="height:180px"><br>
 <img src="/assets/gallery/UP_Kayak.jpg" style="height:170px">
 <img src="/assets/gallery/germany.jpg" style="height:170px">
 </figure>

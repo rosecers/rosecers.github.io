@@ -1,4 +1,4 @@
-## Hi! I'm Rose. I'm a computational scientist.
+## Hi! I'm Rose. I'm a computational scientist. {#me}
 
 ![Minime](/assets/gallery/mini_comp_sci.jpg){: width="90%" style="text-align: center;"}
 
@@ -13,9 +13,3 @@ Most recently, I've been fascinated by the numerical fingerprints used to constr
 
 ### Upcoming Talks {#talks}
 {% include_relative _index/upcoming.md %}
-
-### Publications {#pubs}
-{% include_relative _index/pubs.md %}
-
-### Slides from Previous Talks {#slides}
-{% include_relative _index/slides.md %}

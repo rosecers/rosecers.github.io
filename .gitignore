@@ -1,3 +1,4 @@
+_site
 *DS*
 assets/CV
 *py
@@ -5,3 +6,5 @@ assets/CV
 Gemfile*
 assets/gallery/20*
 transfer
+*qr*
+specs*

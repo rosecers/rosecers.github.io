@@ -1,4 +1,4 @@
-## Hi! I'm Rose. I'm a computational scientist. {#me}
+## Hi! I'm Rose <b>Cersonsky.</b><sdiv>pronounced Sɜr-saun-ski</sdiv>
 
 ![Minime](/assets/gallery/mini_comp_sci.jpg){: width="90%" style="text-align: center;"}
 

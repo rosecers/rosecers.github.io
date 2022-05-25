@@ -77,6 +77,26 @@ a:hover strong {
   font-weight: bold;
 }
 
+b {
+  text-decoration:none;
+}
+
+b:hover, b:focus {
+  color:$hover-color;
+  font-weight: bold;
+}
+
+sdiv {
+  font-size:11pt;
+  color:$hover-color;
+  display: none;
+}
+  
+b:hover + sdiv {
+display: block;
+}
+
+
 .wrapper {
   width:auto;
   margin:0 auto;

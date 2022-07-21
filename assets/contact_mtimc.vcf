@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Timothy C. Moore
+N:Moore;Timothy C.;;;
+NICKNAME:Tim
+item1.EMAIL;TYPE=INTERNET:mtimc@umich.edu
+item1.X-ABLabel:
+item2.ORG:University of Michigan 
+item2.X-ABLabel:
+item3.TITLE:Postdoctoral Researcher, Faculty Candidate
+item4.X-ABLabel:
+NOTE: Computational chemical engineering focusing on inverse-design in colloidal systems
+PHOTO:https://www.rosecersonsky.com/assets/gallery/mtimc.jpeg
+CATEGORIES:myContacts
+END:VCARD

@@ -1,5 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
+<<<<<<< HEAD
 PRODID:-//Apple Inc.//macOS 11.6//EN
 N:Moore;Timothy C.;;;
 FN:Timothy C. Moore
@@ -7,7 +8,7 @@ NICKNAME:Tim
 ORG:University of Michigan;
 TITLE:Postdoctoral Researcher\, Faculty Candidate
 EMAIL;type=INTERNET;type=WORK;type=pref:mtimc@umich.edu
-NOTE:Computational chemical engineering focusing on inverse-design in colloidal systems
+NOTE:Computational chemical engineer focusing on inverse-design in colloidal systems
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4QAqRXhpZgAASUkqAAgA
  AAABADEBAgAHAAAAGgAAAAAAAABHb29nbGUAAP/bAIQAAwICCgoKCgoKCggICAgICAgICAgICA
  gICAgICAgICAgICAgICAgICAgICAgICggICAgJCQkHBw0NCggNBwgJCAEDBAQGBQYKBgYKDQ0K

@@ -1,3 +1,11 @@
+* ### [scikit-matter : A Suite of Generalisable Machine Learning Methods Born out of Chemistry and Materials Science](https://open-research-europe.ec.europa.eu/articles/3-81/v1){:target="_blank"}
+#### doi: 10.12688/openreseurope.15789.1
+Alexander Goscinski, Victor P. Principe, Guillaume Fraux, Sergei Kliavinek, Benjamin A. Helfrecht, Philip Loche, Michele Ceriotti, Rose K. Cersonsky, Open Research Europe, 2023.
+
+* ### [A data-driven interpretation of the stability of organic molecular crystals](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d2sc06198h){:target="_blank"}
+#### doi: 10.1039/D2SC06198H
+Rose K. Cersonsky, Maria Pakhnova, Edgar A. Engel, Michele Ceriotti. Chemical Science, 2023.
+
 * ### [A Route to Hierarchical Assembly of Colloidal Diamond](https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm01418h/unauth){:target="_blank"}
 #### doi: 10.1039/D1SM01418H 
 Yuan Zhou, Rose K. Cersonsky, and Sharon C. Glotzer. Soft Matter, 2022.

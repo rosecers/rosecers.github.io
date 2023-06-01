@@ -1,3 +1,4 @@
+* #### <a href="{{ site.baseurl }}assets/slides/2023-06-01-MolSSI.pdf" target="_blank">Machine Learning in Chemistry: Are we there Yet?, June 1, 2023</a>
 * #### <a href="{{ site.baseurl }}assets/slides/2022-06-14-academic-jobs.pdf" target="_blank">CoSMo Group Meeting, "What I learned being on the US Academic Job Market", June 14, 2022</a>
 * #### <a href="{{ site.baseurl }}assets/slides/2021-11-19_STMS.pdf" target="_blank">Statistical Thermodynamics and Molecular Simulations (STMS) Seminar Series, "Hybrid Unsupervised-Supervised Machine Learning Models for Materials Science", November 19, 2021</a>
 * #### <a href="{{ site.baseurl }}/assets/slides/2021-11-07_AIChE_35i.pdf" target="_blank">AIChE, "The Diversity of Three-Dimensional Photonic Crystals for Colloidal Self-Assembly", November 7, 2021</a>

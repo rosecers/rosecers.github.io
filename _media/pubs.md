@@ -1,3 +1,27 @@
+* ### [The rule of four: anomalous distributions in the stoichiometries of inorganic compounds](https://www.nature.com/articles/s41524-024-01248-z){:target="_blank"}
+#### doi: 10.1038/s41524-024-01284-9
+Elena Gazzarrini, Rose K Cersonsky, Marnik Bercx, Carl S Adorf, Nicola Marzari
+
+* ### [Expanding Density-Correlation Machine Learning Representations for Anisotropic Coarse-Grained Particles](https://arxiv.org/abs/2403.19039){:target="_blank"}
+Arthur Y. Lin, Kevin K. Huguenin-Dumittan, Yong-Cheol Cho, Jigyasa Nigam, Rose K. Cersonsky
+
+* ### [Placental Lesions Associated With Stillbirth by Gestational Age, as Related to Cause of Death: Follow-Up Results From the Stillbirth Collaborative Research Network](https://journals.sagepub.com/doi/full/10.1177/10935266231197349){:target="_blank"}
+#### doi: 10.1177/10935266231197349
+Tess EK Cersonsky, Rose K Cersonsky, Robert M Silver, Donald J Dudley, Halit Pinar
+
+* ### [35+ 1 challenges in materials science being tackled by PIs under 35 (ish) in 2023](https://www.doi.org/10.1016/j.matt.2023.06.046){:target="_blank"}
+#### doi: 10.1016/j.matt.2023.06.046
+Monica Allen, Kwabena Bediako, William J Bowman, Michelle Calabrese, Lucas Caretta, Rose K Cersonsky, Wen Chen, Santiago Correa, Rachel Davidson, Leora Dresselhaus-Marais, Carissa N Eisler, Ariel Furst, Ting Ge, Andrew Hook, Yi-Ting Hsu, Chunjing Jia, Jianfeng Lu, Alessandro Lunghi, Marco S Messina, Ivan A Moreno-Hernandez, Eva Nichols, Reshma Rao, Martin Seifrid, Katherine Emily Shulenberger, Alexandr N Simonov, Xiao Su, Dayne F Swearer, Evelyn Tang, Mercedes K Taylor, Helen Tran, Gustavo F Trindade, Ryan Truby, Hendrik Utzat, Ying Yang, Daryl W Yee, Shenlong Zhao, Steve Cranford
+
+* ### [Not yet defect-free: the current landscape for women in computational materials research](https://www.nature.com/articles/s41524-023-01054-z){:target="_blank"}
+#### doi: 10.1038/s41524-023-01054-z
+Livia B. Partay, Erin Teich, Rose K. Cersonsky
+
+
+* ### [Placental lesions associated with stillbirth by gestational age, according to feature importance: results from the stillbirth collaborative research network](https://www.sciencedirect.com/science/article/pii/S0143400423000760){:target="_blank"}
+#### doi: 10.1016/j.placenta.2023.04.005
+Tess E.K. Cersonsky, Rose K. Cersonsky, George R. Saade, Robert M. Silver, Uma M. Reddy, Robert L. Goldenberg, Donald J. Dudley, Halit Pinar
+
 * ### [scikit-matter : A Suite of Generalisable Machine Learning Methods Born out of Chemistry and Materials Science](https://open-research-europe.ec.europa.eu/articles/3-81/v1){:target="_blank"}
 #### doi: 10.12688/openreseurope.15789.1
 Alexander Goscinski, Victor P. Principe, Guillaume Fraux, Sergei Kliavinek, Benjamin A. Helfrecht, Philip Loche, Michele Ceriotti, Rose K. Cersonsky, Open Research Europe, 2023.

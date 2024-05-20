@@ -1,3 +1,4 @@
+* #### <a href="{{ site.baseurl }}assets/slides/2024-05-20_LANL.pdf" target="_blank">Machine Learning in Chemical and Materials Sciences, Los Alamos National Lab, May 20, 2024</a>
 * #### <a href="{{ site.baseurl }}assets/slides/2023-08-22_Geompack.pdf" target="_blank">GeomPack: Geometry and packing in material structure and biology, August 22, 2023</a>
 * #### <a href="{{ site.baseurl }}assets/slides/2023-06-01_MolSSI.pdf" target="_blank">Machine Learning in Chemistry: Are we there Yet?, June 1, 2023</a>
 * #### <a href="{{ site.baseurl }}assets/slides/2022-06-14-academic-jobs.pdf" target="_blank">CoSMo Group Meeting, "What I learned being on the US Academic Job Market", June 14, 2022</a>
